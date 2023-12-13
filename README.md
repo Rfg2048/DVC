@@ -1,2 +1,2 @@
-# Data Visualization and Communication related codes, application and projects including Power BI
+# Data Visualization and Communication related codes, application and projects.
  
